@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **flutter, node.js and express.js**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Dw1TSH915Uiv92AUrGIGPiBfBMYk3qKj/view?usp=sharing](https://drive.google.com/file/d/1Dw1TSH915Uiv92AUrGIGPiBfBMYk3qKj/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Dw1TSH915Uiv92AUrGIGPiBfBMYk3qKj/view?usp=sharing)
 
 - ⚡ Fun fact **I am Batman.**
 
